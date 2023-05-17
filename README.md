@@ -9,4 +9,3 @@
 <li>링마벨 : 애인상 테스트 프로젝트<sub>(2022.09 ~ )</sub></li>
 <li>모임톡 : 모임에 혁신을 더하다<sub>(2023.01 ~ )</sub></li>
 <h2></h2>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjang9877)](https://solved.ac/jjang9877/)
